@@ -4,6 +4,16 @@
 .AppleDouble
 .LSOverride
 
-*/node_modules/*
+getting-started/node_modules/*
+getting-started/dist/*.js
+
+asset-management/node_modules/*
+asset-management/src/*.jpg
+
+asset-management/dist/*.js
+asset-management/dist/*.woff
+asset-management/dist/*.jpg
+
+
 
 
