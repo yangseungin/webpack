@@ -4,11 +4,27 @@
 .AppleDouble
 .LSOverride
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
 */node_modules/*
 */dist/*.js
 */src/*.jpg
 */dist/*.woff
 */dist/*.jpg
+
+
+### Intellij ###
+.idea
 
 
 
